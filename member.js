@@ -1,4 +1,4 @@
-function skillsMembrer() {
+function skillsMember() {
     var skills = ["HTML", "CSS", "Javascript", "PHP", "MySQL"];
     var skillsMembrer = document.getElementById('skillsMembrer');
     skillsMembrer.innerHTML = "";
